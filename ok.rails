@@ -1,0 +1,3 @@
+code = '@var.reverse'
+@var = 'Hello'
+@result = eval(code)
